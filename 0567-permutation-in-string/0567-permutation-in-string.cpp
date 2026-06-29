@@ -10,7 +10,7 @@ int left = 0;
 
 for(int right = 0; right < s2.size(); right++){
 
-    // add
+
     mp2[s2[right]]++;
 
 
