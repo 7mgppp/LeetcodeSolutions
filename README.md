@@ -10,6 +10,7 @@
 | [0347-top-k-frequent-elements](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1052-grumpy-bookstore-owner) |
 ## Sliding Window
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
