@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
