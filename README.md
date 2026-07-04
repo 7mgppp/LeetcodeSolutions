@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
