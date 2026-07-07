@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
@@ -147,4 +148,16 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
