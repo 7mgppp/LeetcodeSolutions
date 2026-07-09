@@ -152,6 +152,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1873-calculate-special-bonus) |
 ## Tree
 |  |
 | ------- |
