@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -28,6 +29,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -52,6 +54,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@
 | [0303-range-sum-query-immutable](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
