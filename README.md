@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
