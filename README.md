@@ -179,6 +179,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1070-product-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1193-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1321-restaurant-growth) |
