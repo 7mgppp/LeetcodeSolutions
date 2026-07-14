@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
