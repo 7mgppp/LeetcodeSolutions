@@ -198,6 +198,7 @@
 | [1148-article-views-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1193-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
