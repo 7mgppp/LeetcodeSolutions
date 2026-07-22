@@ -19,6 +19,7 @@
 | [0525-contiguous-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -226,6 +228,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -241,6 +244,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -261,5 +265,6 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
