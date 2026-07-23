@@ -26,6 +26,7 @@
 | [0904-fruit-into-baskets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -247,6 +248,7 @@
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -267,4 +269,5 @@
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
