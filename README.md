@@ -31,6 +31,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1162-as-far-from-land-as-possible](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -251,6 +252,7 @@
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -273,8 +275,10 @@
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1162-as-far-from-land-as-possible) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1162-as-far-from-land-as-possible) |
 <!---LeetCode Topics End-->
