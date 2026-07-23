@@ -17,6 +17,7 @@
 | [0303-range-sum-query-immutable](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
@@ -245,6 +246,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
@@ -267,7 +269,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
