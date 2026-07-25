@@ -7,7 +7,7 @@ public:
 
         for(int i =0; i<s.size(); i++){
             mp[s[i]]++;
-            while(mp[s[i]] == 2){
+            while(mp[s[i]] > 1){
                 mp[s[left]]--;
                 left++;
             }
