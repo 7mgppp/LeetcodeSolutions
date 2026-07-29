@@ -1,4 +1,3 @@
 SELECT *
 FROM users
-WHERE mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode\\.com$'
-  AND mail LIKE BINARY '%@leetcode.com';
+WHERE mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode\\.com$' AND mail LIKE BINARY '%@leetcode.com';
