@@ -1,28 +1,27 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        //same as whatever i did prev;
-
+        unordered_map<char,int>mp;
+        int max_freq = 0;
+        int main_maxi = 0;
         int left = 0;
-        unordered_map<char, int>mp;
-        int maxfreq = 0;
-        int ans = 0;
 
+        //valid condition
         for(int i =0; i<s.size(); i++){
             mp[s[i]]++;
-            maxfreq = max(maxfreq, mp[s[i]]);
-
-            while((i-left+1) - maxfreq > k){
+            max_freq = max(max_freq, mp[s[i]]);
+            
+            //length of string till now - max occured char > k that means no more replacements can be made
+            while(i-left+1 - max_freq > k){
                 mp[s[left]]--;
                 left++;
-            }
+            } 
 
-            ans = max(ans, i-left+1);
+            main_maxi = max(main_maxi, i-left+1);
 
         }
 
-        return ans;
-
+        return main_maxi;
 
         
     }
