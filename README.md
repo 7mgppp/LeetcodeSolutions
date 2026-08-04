@@ -235,6 +235,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0207-course-schedule](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
@@ -264,6 +266,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,4 +321,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0210-course-schedule-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
