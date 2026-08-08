@@ -235,6 +235,7 @@
 | [0110-balanced-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0404-sum-of-left-leaves) |
@@ -248,6 +249,7 @@
 | [0110-balanced-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0200-number-of-islands) |
@@ -270,6 +272,7 @@
 | [0110-balanced-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0404-sum-of-left-leaves) |
@@ -322,6 +325,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1162-as-far-from-land-as-possible) |
 ## Topological Sort
@@ -333,5 +337,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
