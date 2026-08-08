@@ -37,6 +37,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0733-flood-fill](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,6 +306,7 @@
 | [0547-number-of-provinces](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -321,6 +326,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## DP on Trees
 |  |
 | ------- |
