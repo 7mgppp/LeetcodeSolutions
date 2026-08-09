@@ -197,6 +197,7 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0511-game-play-analysis-i) |
