@@ -228,6 +228,7 @@
 | [1587-bank-account-summary-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
