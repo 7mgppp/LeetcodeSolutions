@@ -356,4 +356,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
