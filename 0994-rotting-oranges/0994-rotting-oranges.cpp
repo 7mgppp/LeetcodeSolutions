@@ -1,19 +1,23 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int min = 0;
         int fresh = 0;
+        int min = 0;
+
         queue<pair<int, int>> q;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[i].size(); j++) {
                 if (grid[i][j] == 2) {
                     q.push({i, j});
                 }
+
                 if (grid[i][j] == 1) {
                     fresh++;
                 }
             }
         }
+
+        // normal bfs
         while (!q.empty()) {
             int size = q.size();
             for (int i = 0; i < size; i++) {
@@ -38,11 +42,13 @@ public:
                     }
                 }
             }
-            if (!q.empty())
+            if (!q.empty()) {
                 min++;
+            }
         }
-        if (fresh == 0)
-            return min;
-        return -1;
+            if (fresh == 0)
+                return min;
+            return -1;
+        
     }
 };
