@@ -1,56 +1,51 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int>res;
-    
+        //detect cycle in D A G 
+        //Topological Sort
 
-        //adj list //directed graph
         vector<vector<int>>adj(numCourses);
-        
-        for(auto &it :prerequisites){
+        for(auto it : prerequisites){
             adj[it[1]].push_back(it[0]);
         }
 
-        //indegree
-        vector<int> indeg(numCourses, 0);
-        for(int i =0; i< numCourses; i++){
-            for(int neigh : adj[i]){
-                indeg[neigh]++;
+        vector<int>indegree(numCourses, 0);
+        for(int i =0; i<numCourses; i++){
+            for(int j =0; j < adj[i].size(); j++){
+                int neigh = adj[i][j];
+                indegree[neigh]++;
             }
         }
 
         queue<int>q;
-        for(int i =0; i<numCourses; i++){
-            if(indeg[i] == 0){
+        for(int i = 0; i<numCourses; i++){
+            if(indegree[i] == 0){
                 q.push(i);
             }
         }
 
-        
-
+        vector<int> OrderList;
         while(!q.empty()){
             int node = q.front();
             q.pop();
-            res.push_back(node);
+            OrderList.push_back(node);
 
-            for(int i =0; i<adj[node].size(); i++){
+            for (int i = 0; i < adj[node].size(); i++) {
                 int neigh = adj[node][i];
 
-                indeg[neigh]--;
-                if(indeg[neigh] == 0){
+                indegree[neigh]--;
+                if (indegree[neigh] == 0)
                     q.push(neigh);
-                    
-                }
             }
-            
         }
 
-        if(res.size() == numCourses){
-            return res;
+        if(OrderList.size() == numCourses){
+            return OrderList;
         }
         else{
             return {};
         }
+
         
     }
 };
