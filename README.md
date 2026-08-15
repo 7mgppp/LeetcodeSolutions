@@ -327,6 +327,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Graph Theory
 |  |
@@ -352,6 +353,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
