@@ -398,4 +398,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
