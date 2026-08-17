@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -114,6 +115,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
@@ -358,6 +360,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -402,4 +405,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
