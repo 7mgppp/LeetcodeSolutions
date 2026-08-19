@@ -5,7 +5,7 @@ public:
         
         int n = nums.size();
         int j = 0;
-        int k = 0;
+        int k = 0;  //returns the no of times its not equal 
         for(int i =0; i<nums.size(); i++){
             while(j < n && nums[j] == val){
                 j++;
