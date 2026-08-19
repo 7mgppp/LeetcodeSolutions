@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0169-majority-element) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0213-house-robber-ii) |
