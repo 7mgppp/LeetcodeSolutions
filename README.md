@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
@@ -374,6 +375,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -432,6 +434,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
