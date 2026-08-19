@@ -416,4 +416,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
