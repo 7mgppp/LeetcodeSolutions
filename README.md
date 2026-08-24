@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0055-jump-game) |
@@ -132,6 +133,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -216,6 +218,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -381,6 +384,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
@@ -449,4 +453,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0274-h-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
