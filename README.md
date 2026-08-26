@@ -79,6 +79,7 @@
 | [0012-integer-to-roman](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
