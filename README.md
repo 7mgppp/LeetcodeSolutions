@@ -85,6 +85,7 @@
 | [0058-length-of-last-word](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/7mgppp/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -156,6 +157,7 @@
 | [0234-palindrome-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -406,6 +408,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
