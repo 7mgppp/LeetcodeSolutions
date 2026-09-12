@@ -1,39 +1,42 @@
 class Solution {
-private:
-    void dfs(int i, int j, vector<vector<char>>& grid){
-        if(i < 0 || j < 0 || i >= grid.size() || j >= grid[0].size()){
-            return;
-        }
-        if(grid[i][j] == '0'){
-            return;
-        }
-
-        //mark as visited;
-        grid[i][j] = '0';
-
-        //visit neighbours
-        int dr[] = {0 ,0, -1, 1};
-        int dc[] = {-1, 1, 0, 0};
-        for(int k =0; k<4; k++){
-            dfs(i + dr[k], j + dc[k], grid);
-        }
-    }
 public:
     int numIslands(vector<vector<char>>& grid) {
         int count = 0;
-        for(int i =0; i<grid.size(); i++){
-            for(int j = 0; j<grid[0].size(); j++){
-                if(grid[i][j] == '1'){
-                    dfs(i, j, grid);
+        for (int i = 0; i < grid.size(); i++) {
+            for (int j = 0; j < grid[i].size(); j++) {
+
+                if (grid[i][j] == '1') {
                     count++;
+                    queue<pair<int, int>> q;
+                    q.push({i, j});
+                    grid[i][j] = '0';
+
+                    while (!q.empty()) {
+                        pair<int, int> node = q.front();
+                        q.pop();
+
+                        int r = node.first;
+                        int c = node.second;
+
+                        int dr[] = {1, -1, 0, 0};
+                        int dc[] = {0, 0, -1, 1};
+
+                        for (int k = 0; k < 4; k++) {
+                            int newRow = r + dr[k];
+                            int newCol = c + dc[k];
+
+                            if (newRow >= 0 && newRow < grid.size() &&
+                                newCol >= 0 && newCol < grid[0].size() &&
+                                grid[newRow][newCol] == '1') {
+                                grid[newRow][newCol] = '0';
+                                q.push({newRow, newCol});
+                            }
+                        }
+                    }
                 }
             }
-            
-            
         }
+
         return count;
-
-
-        
     }
 };
