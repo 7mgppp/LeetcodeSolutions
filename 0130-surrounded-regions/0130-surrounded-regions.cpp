@@ -1,63 +1,56 @@
 class Solution {
-public:
-    void solve(vector<vector<char>>& board) {
-        int n = board.size();
-        int m = board[0].size();
-
+private:
+    void bfs(vector<vector<char>>& board, int r, int c) {
         queue<pair<int, int>> q;
-        vector<vector<int>> visited(n, vector<int>(m, 0)); 
+        q.push({r, c});
 
-        for (int j = 0; j < m; j++) {
-            if (board[0][j] == 'O' && visited[0][j] == 0) { 
-                q.push({0, j});
-                visited[0][j] = 1;
-            }
-            
-            if (board[n - 1][j] == 'O' && visited[n - 1][j] == 0) {
-                q.push({n - 1, j});
-                visited[n - 1][j] = 1;
-            }
-        }
+        board[r][c] = 'S';
 
-        for (int i = 0; i < n; i++) {
-            if (board[i][0] == 'O' && visited[i][0] == 0) {
-                q.push({i, 0});
-                visited[i][0] = 1;
-            }
-            
-            if (board[i][m - 1] == 'O' && visited[i][m - 1] == 0) {
-                q.push({i, m - 1});
-                visited[i][m - 1] = 1;
-            }
-        }
-
-        //BFS
-
-        int dr[] = {-1, 0, 1, 0};
-        int dc[] = {0, 1, 0, -1};
+        int dr[] = {1, -1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
 
         while (!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
+
+            auto [row, col] = q.front();
             q.pop();
 
-            for (int i = 0; i < 4; i++) {
-                int nrow = r + dr[i];
-                int ncol = c + dc[i];
+            for (int k = 0; k < 4; k++) {
 
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && board[nrow][ncol] == 'O' && visited[nrow][ncol] == 0) {
-                    visited[nrow][ncol] = 1; 
-                    q.push({nrow, ncol});
+                int nr = row + dr[k];
+                int nc = col + dc[k];
+
+                if (nr >= 0 && nr < board.size() && nc >= 0 &&
+                    nc < board[0].size() && board[nr][nc] == 'O') {
+
+                    board[nr][nc] = 'S';
+                    q.push({nr, nc});
+                }
+            }
+        }
+    }
+
+public:
+    void solve(vector<vector<char>>& board) {
+        for(int i = 0; i < board.size(); i++){
+            for(int j = 0; j < board[0].size(); j++){
+                if((i == 0 || j == 0|| i == board.size()-1 || j == board[0].size()-1) && board[i][j]=='O'){
+                    bfs(board, i, j);
                 }
             }
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; ++j) {
-                if (board[i][j] == 'O' && visited[i][j] == 0) {
+        for(int i =0; i<board.size(); i++){
+            for(int j =0; j<board[0].size(); j++){
+                if(board[i][j] == 'O'){
                     board[i][j] = 'X';
                 }
+
+                else if(board[i][j] == 'S'){
+                    board[i][j] = 'O';
+                }
             }
         }
+
+        
     }
 };
