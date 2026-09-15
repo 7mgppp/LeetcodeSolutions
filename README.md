@@ -235,6 +235,7 @@
 | [0143-reorder-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -384,6 +385,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/7mgppp/LeetcodeSolutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
