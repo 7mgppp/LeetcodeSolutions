@@ -11,8 +11,9 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode FakesEatASS(0);
-        ListNode* tail = &FakesEatASS;
+        ListNode * Fakes = new ListNode(0);
+        ListNode* tail = Fakes;
+        
 
         while(list1 && list2){
             if(list1->val <= list2->val){
@@ -23,6 +24,7 @@ public:
                 tail->next = list2;
                 list2 = list2->next;
             }
+
             tail = tail->next;
         }
 
@@ -33,6 +35,7 @@ public:
             tail->next = list2;
         }
 
-        return FakesEatASS.next;
+        return Fakes->next;
+        
     }
 };
